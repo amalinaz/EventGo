@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EventGo</string>
+
+    <string name="introTitle">Celebrate the <font color='#F1CCA6'>Extraordinary</font> in everyday moments</string>
+    <string name="introSub">Join us and discover the most exciting events happening now!</string>
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout\n</string>
+    <string name="payment">Payment</string>
+    <string name="ticketPrice">Ticket Price</string>
+    <string name="selectedTicket">Selected Ticket</string>
+    <string name="paymentMethod">Payment Method</string>
+    <string name="totalPrice">Total Price</string>
+    <string name="whatnew">"What's New"</string>
+    <string name="trendingnow">Trending Now</string>
+    <string name="client_id">449591517230-62u76r4bns41rkn54dv50f296ensaaj5.apps.googleusercontent.com</string>
+</resources>
